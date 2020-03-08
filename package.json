@@ -1,0 +1,10 @@
+{
+  "name": "loan-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve" : "live-server --port=3456 --no-browser"  },
+  "author": "",
+  "license": "ISC"
+}
